@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6fec3527-8261-4775-8c53-9fde73430067" name="Default Changelist" comment="" />
+    <list default="true" id="6fec3527-8261-4775-8c53-9fde73430067" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/NIO/NIOServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OfferCode/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OfferCode/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OfferCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OfferCode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OfferCode/out/production/OfferCode/data_structure/ListStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OfferCode/out/production/OfferCode/data_structure/ListStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OfferCode/out/production/OfferCode/sort/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OfferCode/out/production/OfferCode/sort/HeapSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OfferCode/out/production/OfferCode/sort/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OfferCode/out/production/OfferCode/sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OfferCode/out/production/OfferCode/sort/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OfferCode/out/production/OfferCode/sort/test$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OfferCode/out/production/OfferCode/sort/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OfferCode/src/sort/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OfferCode/src/sort/HeapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OfferCode/src/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OfferCode/src/sort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Socketcode/META-INF/Socketcode.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Socketcode/MainFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Socketcode/MainFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Socketcode/TCPClient$RecvThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Socketcode/TCPClient$RecvThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Socketcode/TCPClient$TFListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Socketcode/TCPClient$TFListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Socketcode/TCPClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Socketcode/TCPClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Socketcode/TCPClient1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Socketcode/TCPClient1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Socketcode/TCPClient2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Socketcode/TCPClient2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Socketcode/TCPClientLogin$TFListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Socketcode/TCPClientLogin$TFListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Socketcode/TCPClientLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Socketcode/TCPClientLogin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Socketcode/TCPServer$Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Socketcode/TCPServer$Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Socketcode/TCPServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Socketcode/TCPServer.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +35,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/TCPServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="61" column="37" selection-start-line="61" selection-start-column="37" selection-end-line="61" selection-end-column="37" />
+            <state relative-caret-position="-75">
+              <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-end-line="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -23,10 +47,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Chat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4180">
+            <state relative-caret-position="11850">
               <caret line="500" column="5" selection-start-line="500" selection-start-column="5" selection-end-line="500" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -48,9 +72,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TCPClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3075">
-              <caret line="128" column="38" selection-start-line="128" selection-start-column="21" selection-end-line="128" selection-end-column="38" />
+            <state relative-caret-position="275">
+              <caret line="55" column="29" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="29" />
               <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NIO/NIOServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="123" column="24" lean-forward="true" selection-start-line="123" selection-start-column="24" selection-end-line="123" selection-end-column="24" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -60,11 +97,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TCPClient2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="40" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="40" />
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="40" />
               <folding>
                 <element signature="e#68#69#0" expanded="true" />
-                <element signature="e#113#114#0" expanded="true" />
+                <element signature="e#118#119#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -73,14 +110,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TCPClientLogin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
+            <state relative-caret-position="700">
               <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#328#517#0" expanded="true" />
-                <element signature="e#516#517#0" expanded="true" />
-                <element signature="e#1485#1486#0" expanded="true" />
-                <element signature="e#1515#1516#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -89,7 +122,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TCPClient1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="50">
               <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -109,6 +142,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -123,29 +159,46 @@
         <option value="$PROJECT_DIR$/src/TCPClientLogin.java" />
         <option value="$PROJECT_DIR$/src/TCPServer.java" />
         <option value="$PROJECT_DIR$/src/TCPClient.java" />
+        <option value="$PROJECT_DIR$/src/NIO/NIOServer.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="69" />
-    <option name="y" value="67" />
-    <option name="width" value="1037" />
-    <option name="height" value="735" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1007" />
+    <option name="width" value="910" />
+    <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Socketcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SocketCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Socketcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SocketCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551526862767" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554030018689" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -169,23 +222,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TCPClientLogin">
-    <configuration name="Chat1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chat1" />
+  <component name="RunManager" selected="Application.NIOServer">
+    <configuration name="NIOServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NIO.NIOServer" />
       <module name="Socketcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TCPClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TCPClient" />
-      <module name="Socketcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NIO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="TCPClient1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TCPClient1" />
+      <module name="Socketcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TCPClient2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TCPClient2" />
       <module name="Socketcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -207,11 +266,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TCPClientLogin" />
+        <item itemvalue="Application.NIOServer" />
+        <item itemvalue="Application.TCPClient2" />
         <item itemvalue="Application.TCPServer" />
+        <item itemvalue="Application.TCPClientLogin" />
         <item itemvalue="Application.TCPClient1" />
-        <item itemvalue="Application.TCPClient" />
-        <item itemvalue="Application.Chat1" />
       </list>
     </recent_temporary>
   </component>
@@ -232,16 +291,20 @@
       <workItem from="1551420051778" duration="264000" />
       <workItem from="1551421324412" duration="15351000" />
       <workItem from="1551492036380" duration="5792000" />
+      <workItem from="1553609402598" duration="835000" />
+      <workItem from="1553667300225" duration="1208000" />
+      <workItem from="1553938720806" duration="9709000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36994000" />
+    <option name="totallyTimeSpent" value="48746000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="69" y="67" width="1037" height="735" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25566342" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07782516" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -250,7 +313,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.10611303" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.20415226" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.03253796" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -314,27 +377,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/TextField.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="475" column="7" selection-start-line="475" selection-start-column="4" selection-end-line="475" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/TextField.java" />
     <entry file="file://$PROJECT_DIR$/src/ChatClient.java" />
     <entry file="file://$PROJECT_DIR$/src/FileUpLoadServer.java" />
     <entry file="file://$PROJECT_DIR$/src/Chat1.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/swing/JFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="492" column="16" selection-start-line="492" selection-start-column="16" selection-end-line="492" selection-end-column="16" />
-          <folding>
-            <element signature="e#18139#18140#0" expanded="true" />
-            <element signature="e#18188#18189#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/swing/JFrame.java" />
     <entry file="file://$PROJECT_DIR$/../SocketCode - 副本/src/TCPClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -346,32 +393,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TCPClient1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TCPClientLogin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#328#517#0" expanded="true" />
-            <element signature="e#516#517#0" expanded="true" />
-            <element signature="e#1485#1486#0" expanded="true" />
-            <element signature="e#1515#1516#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -395,40 +416,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TCPClient2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="40" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="40" />
-          <folding>
-            <element signature="e#68#69#0" expanded="true" />
-            <element signature="e#113#114#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TCPClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3075">
-          <caret line="128" column="38" selection-start-line="128" selection-start-column="21" selection-end-line="128" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TCPServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="61" column="37" selection-start-line="61" selection-start-column="37" selection-end-line="61" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Chat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4180">
+        <state relative-caret-position="11850">
           <caret line="500" column="5" selection-start-line="500" selection-start-column="5" selection-end-line="500" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -442,6 +432,77 @@
             <element signature="e#13905#13906#0" expanded="true" />
             <element signature="e#14069#14070#0" expanded="true" />
             <element signature="e#14121#14122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TCPClient2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="40" />
+          <folding>
+            <element signature="e#68#69#0" expanded="true" />
+            <element signature="e#118#119#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TCPClientLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TCPClient1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TCPClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="55" column="29" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="1324" column="22" selection-start-line="1324" selection-start-column="22" selection-end-line="1324" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIO/NIOServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="123" column="24" lean-forward="true" selection-start-line="123" selection-start-column="24" selection-end-line="123" selection-end-column="24" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TCPServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75">
+          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
