@@ -3,7 +3,7 @@ package sort;
 public class QuickSort {
 
     public static void main(String []args){
-        int[] b = { 49, 38, 65, 97, 76, 13, 27, 50 };
+        int[] b = { 49, 38, 65, 97, 76, 13, 27, 50 ,77,88,99,111,222,333,545,12,45,63,23};
         qsort(b, 0, b.length - 1);
         for(int w:b)
             System.out.print(" "+w);

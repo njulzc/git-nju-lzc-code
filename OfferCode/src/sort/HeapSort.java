@@ -23,6 +23,7 @@ public class HeapSort {
             start=j;
         }
         a[start]=temp;
+
     }
     static void swap(int a[],int low,int high){
         int temp=a[low];
@@ -31,7 +32,7 @@ public class HeapSort {
     }
     public static void main(String []args){
         int[] b = { 49, 38, 65, 97, 76, 13, 27, 50 };
-        heapSort(b, b.length - 1);
+        heapSort(b, b.length-1);
         for(int w:b)
             System.out.print(" "+w);
     }
