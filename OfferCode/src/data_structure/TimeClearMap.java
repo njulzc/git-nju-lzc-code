@@ -3,7 +3,9 @@ package data_structure;
 import java.util.Timer;
 import java.util.Date;
 import java.util.TimerTask;
-
+/*
+想实现一个定时自动删除过期数据的hashmap，待实现remove。
+*/
 public class TimeClearMap <K,V>{
     public static void main(String []args) {
 

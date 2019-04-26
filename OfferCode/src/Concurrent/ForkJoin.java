@@ -5,7 +5,9 @@ import java.util.Random;
 import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.Future;
 import java.util.concurrent.RecursiveTask;
-
+/*
+使用forkjoin实现海量数据的累加求和
+*/
 public class ForkJoin {
     public static int [] nums=new int[200000000];
     public static void main(String []args) throws Exception{

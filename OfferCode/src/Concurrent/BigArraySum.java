@@ -9,6 +9,10 @@ import java.util.concurrent.LinkedBlockingQueue;
 import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
 
+/*
+实现海量数据的累加求和，考虑了大数问题，使用BigInteger，使用线程池实现并发
+*/
+
 public class BigArraySum {
 
     public static int [] nums=new int[200000000];
@@ -40,7 +44,7 @@ public class BigArraySum {
     }
 
     private static class CreateThreadPool{
-        ThreadPoolExecutor pools=new ThreadPoolExecutor(5,11,60, TimeUnit.SECONDS,new LinkedBlockingQueue<Runnable>(10));
+        ThreadPoolExecutor pools=new ThreadPoolExecutor(4,4,60, TimeUnit.SECONDS,new LinkedBlockingQueue<Runnable>());
         void CreateThead(){
             for(int i=0;i<TaskCount;i++){
                 //System.out.println("创建中: "+i);
@@ -95,7 +99,9 @@ public class BigArraySum {
                 break;
             }
             System.out.println(Thread.currentThread().getName()+": "+sb.toString());
-            res=res.add(new BigInteger(sb.toString()));
+            synchronized (res){
+                res=res.add(new BigInteger(sb.toString()));
+            }
 
             latch.countDown();
         }

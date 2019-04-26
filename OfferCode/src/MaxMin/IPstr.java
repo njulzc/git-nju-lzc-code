@@ -1,5 +1,8 @@
 package MaxMin;
 
+/*
+实现对IP字符串的压缩和解压缩，IP字符串大约30字节，压缩成int整数4字节存储。节省了大量空间。
+ */
 public class IPstr {
 
     public static void main(String args[]){
